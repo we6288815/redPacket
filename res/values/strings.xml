@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">红包来吧</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">请开启“红包来吧”服务后通过任务管理器切换到微信聊天界面或桌面使用</string>
+    <string name="setting">设置</string>
+    <string name="help">帮助：</string>
+    <string name="help_value">设置→辅助功能→无障碍→红包来吧</string>
+    <string name="remark">说明：</string>
+    <string name="remark_value">请保持本应用的启动，不要退出，一旦退出，则需要重新关闭服务后再次打开才能使用</string>
+    <string name="red_packet_service_des">请在需要自动打开红包时开启本服务</string>
+
+</resources>
